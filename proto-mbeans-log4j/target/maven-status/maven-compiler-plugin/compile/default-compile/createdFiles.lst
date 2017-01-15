@@ -1,0 +1,4 @@
+fr/dja/mbean/Log4jLevelChangerMBean.class
+fr/dja/util/LogUtil.class
+fr/dja/server/ContextListener.class
+fr/dja/mbean/Log4jLevelChanger.class
